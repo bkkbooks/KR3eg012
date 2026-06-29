@@ -1,0 +1,1337 @@
+canonical_identifier: bkk:krp/KR3eg012/v1
+canonical_location: https://kanripo.org/bkk/KR3eg012/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 溫病正宗
+  identifiers:
+    krp: KR3eg012
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat02200
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg012.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg012_000.yaml, hash: 'sha256:541cb094634d553d0d887078d450821f96d73405092ec5c29d05dd50a646c25a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg012_000.markers.yaml, hash: 'sha256:883074125198316549e65b6bfd0ffb9c64d8a21ebfddf36b33b8230811db9904'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 308
+  label: 周序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d3.h1s1
+    span:
+    - front
+    - 308
+    - 600
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 12522
+  label: 上篇學說辯正
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d4d2
+    span:
+    - body
+    - 6
+    - 2325
+  label: 第一章溫病解釋之正誤
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d4d3
+    span:
+    - body
+    - 2325
+    - 3900
+  label: 第二章溫病真理之探源
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d4d4
+    span:
+    - body
+    - 3900
+    - 9953
+  label: 第三章溫病瘟疫之辨析
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d4.d4d2
+    span:
+    - body
+    - 3910
+    - 4807
+  label: 第一節通論
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d4.d4d3
+    span:
+    - body
+    - 4807
+    - 7835
+  label: 第二節溫病專書之概論
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d4.d4d4
+    span:
+    - body
+    - 7835
+    - 9953
+  label: 第三節瘟疫專書之概論
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d4d5
+    span:
+    - body
+    - 9953
+    - 12522
+  label: 第四章溫病學說之折衷
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.h1s1
+    span:
+    - body
+    - 12522
+    - 67637
+  label: 下篇正宗輯要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5d2
+    span:
+    - body
+    - 12528
+    - 28766
+  label: 第一章通論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d2d2
+    span:
+    - body
+    - 12533
+    - 14247
+  label: 一素靈
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d2d3
+    span:
+    - body
+    - 14247
+    - 14670
+  label: 二難經
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d2d4
+    span:
+    - body
+    - 14670
+    - 20885
+  label: 三傷寒論
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d2d5
+    span:
+    - body
+    - 20885
+    - 21414
+  label: 四傷寒補亡論
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d2d6
+    span:
+    - body
+    - 21414
+    - 21845
+  label: 五傷寒直格
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d2d7
+    span:
+    - body
+    - 21845
+    - 22533
+  label: 六此事難知集
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d2d8
+    span:
+    - body
+    - 22533
+    - 23769
+  label: 七醫經溯洄集
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d2d9
+    span:
+    - body
+    - 23769
+    - 23963
+  label: 八丹溪心法附余
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d2d10
+    span:
+    - body
+    - 23963
+    - 24408
+  label: 九傷寒補天石
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d2d11
+    span:
+    - body
+    - 24408
+    - 24762
+  label: 十傷寒六書
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d2d12
+    span:
+    - body
+    - 24762
+    - 25112
+  label: 十一傷寒緒論
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d2d13
+    span:
+    - body
+    - 25112
+    - 27140
+  label: 十二溫熱暑疫全書
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d2d14
+    span:
+    - body
+    - 27140
+    - 28766
+  label: 十三歸硯錄
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5d3
+    span:
+    - body
+    - 28766
+    - 46769
+  label: 第二章分論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d2
+    span:
+    - body
+    - 28771
+    - 29315
+  label: 一考證溫熱名義
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d3
+    span:
+    - body
+    - 29315
+    - 29631
+  label: 二論傷寒成溫之理
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d4
+    span:
+    - body
+    - 29631
+    - 30423
+  label: 三論葉派治溫熱之誤
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d5
+    span:
+    - body
+    - 30423
+    - 30647
+  label: 四溫邪上受解
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d6
+    span:
+    - body
+    - 30647
+    - 30757
+  label: 五溫熱久在一經解
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d7
+    span:
+    - body
+    - 30757
+    - 31478
+  label: 六論吳氏溫病條辨之誤
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d8
+    span:
+    - body
+    - 31478
+    - 32035
+  label: 七溫熱病說
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d9
+    span:
+    - body
+    - 32035
+    - 32227
+  label: 八伏溫論
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d10
+    span:
+    - body
+    - 32227
+    - 32375
+  label: 九傷寒溫熱疫邪傳入不同
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d11
+    span:
+    - body
+    - 32375
+    - 32633
+  label: 十辨傷寒溫病熱病並無傳染之理
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d12
+    span:
+    - body
+    - 32633
+    - 32916
+  label: 十一辨景岳混瘟溫為傷寒之誤
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d13
+    span:
+    - body
+    - 32916
+    - 33554
+  label: 十二論溫熱四時皆有
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d14
+    span:
+    - body
+    - 33554
+    - 33672
+  label: 十三論伏氣春溫
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d15
+    span:
+    - body
+    - 33672
+    - 33811
+  label: 十四春溫有二
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d16
+    span:
+    - body
+    - 33811
+    - 34863
+  label: 十五溫熱提要
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d17
+    span:
+    - body
+    - 34863
+    - 37288
+  label: 十六溫暑提綱
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d18
+    span:
+    - body
+    - 37288
+    - 38227
+  label: 十七論溫熱與風寒各異
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d19
+    span:
+    - body
+    - 38227
+    - 39507
+  label: 十八論溫熱症辨似要義
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d20
+    span:
+    - body
+    - 39507
+    - 40300
+  label: 十九論溫熱五種辨法
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d21
+    span:
+    - body
+    - 40300
+    - 40385
+  label: 二十溫熱有外感有伏邪
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d22
+    span:
+    - body
+    - 40385
+    - 40790
+  label: 二十一論溫病與傷寒病情不同治法各異
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d23
+    span:
+    - body
+    - 40790
+    - 41212
+  label: 二十二論伏氣發溫與暴感風溫病源不同治法各異
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d24
+    span:
+    - body
+    - 41212
+    - 41800
+  label: 二十三論伏邪外發須辨六經形證
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d25
+    span:
+    - body
+    - 41800
+    - 42236
+  label: 二十四論溫熱伏氣與新感不同
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d26
+    span:
+    - body
+    - 42236
+    - 42424
+  label: 二十五溫熱暑各伏氣有兼邪
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d27
+    span:
+    - body
+    - 42424
+    - 42658
+  label: 二十六溫暑伏氣證狀
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d28
+    span:
+    - body
+    - 42658
+    - 43214
+  label: 二十七伏氣溫病論
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d29
+    span:
+    - body
+    - 43214
+    - 43353
+  label: 二十八伏邪病名解
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d30
+    span:
+    - body
+    - 43353
+    - 43476
+  label: 二十九五氣皆從火化
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d31
+    span:
+    - body
+    - 43476
+    - 43845
+  label: 三十論溫熱即是伏火
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d32
+    span:
+    - body
+    - 43845
+    - 44010
+  label: 三十一暑痎熱與火而言
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d33
+    span:
+    - body
+    - 44010
+    - 44056
+  label: 三十二暍暑命名之別
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d34
+    span:
+    - body
+    - 44056
+    - 44236
+  label: 三十三寒溫暑濕汗解不同
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d35
+    span:
+    - body
+    - 44236
+    - 44712
+  label: 三十四風溫濕溫勿用發表攻裡
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d36
+    span:
+    - body
+    - 44712
+    - 44832
+  label: 三十五溫熱燥證宜保津液
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d37
+    span:
+    - body
+    - 44832
+    - 45045
+  label: 三十六濕證非易治之病
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d38
+    span:
+    - body
+    - 45045
+    - 45203
+  label: 三十七濕溫變證極多
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d39
+    span:
+    - body
+    - 45203
+    - 45303
+  label: 三十八太陰陽明之表受邪濕熱居多
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d40
+    span:
+    - body
+    - 45303
+    - 45429
+  label: 三十九濕邪從膜原而入
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d41
+    span:
+    - body
+    - 45429
+    - 45609
+  label: 四十濕熱證陽明必兼太陰
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d42
+    span:
+    - body
+    - 45609
+    - 45784
+  label: 四十一暑濕穢合邪
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d43
+    span:
+    - body
+    - 45784
+    - 45860
+  label: 四十二秋燥證治
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d44
+    span:
+    - body
+    - 45860
+    - 46222
+  label: 四十三秋燥證治論
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d3d45
+    span:
+    - body
+    - 46222
+    - 46769
+  label: 四十四新感秋燥說
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5d4
+    span:
+    - body
+    - 46769
+    - 48943
+  label: 第三章辨脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d4d2
+    span:
+    - body
+    - 46774
+    - 46828
+  label: 一辨脈提綱
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d4d3
+    span:
+    - body
+    - 46828
+    - 47930
+  label: 二溫病辨脈
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d4d4
+    span:
+    - body
+    - 47930
+    - 48440
+  label: 三熱病辨脈
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d4d5
+    span:
+    - body
+    - 48440
+    - 48792
+  label: 四暑病辨脈
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d4d6
+    span:
+    - body
+    - 48792
+    - 48890
+  label: 五濕病辨脈
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d4d7
+    span:
+    - body
+    - 48890
+    - 48943
+  label: 六燥病辨脈
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5d5
+    span:
+    - body
+    - 48943
+    - 67637
+  label: 第四章分症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5d2
+    span:
+    - body
+    - 48948
+    - 51867
+  label: 一春溫
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d2d2
+    span:
+    - body
+    - 48951
+    - 50461
+  label: 一伏氣春溫症
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d2d3
+    span:
+    - body
+    - 50461
+    - 51286
+  label: 二伏溫兼新感症
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d2d4
+    span:
+    - body
+    - 51286
+    - 51867
+  label: 三新感春溫症
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5d3
+    span:
+    - body
+    - 51867
+    - 54456
+  label: 二風溫
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d3d2
+    span:
+    - body
+    - 51870
+    - 53243
+  label: 一伏氣風溫症
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d3d3
+    span:
+    - body
+    - 53243
+    - 54456
+  label: 二新感風溫症
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5d4
+    span:
+    - body
+    - 54456
+    - 55366
+  label: 三熱病
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d4d2
+    span:
+    - body
+    - 54459
+    - 55117
+  label: 一伏氣熱病
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d4d3
+    span:
+    - body
+    - 55117
+    - 55366
+  label: 二伏熱兼新感症
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5d5
+    span:
+    - body
+    - 55366
+    - 57053
+  label: 四暑病
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d5d2
+    span:
+    - body
+    - 55369
+    - 55574
+  label: 一冒暑
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d5d3
+    span:
+    - body
+    - 55574
+    - 56284
+  label: 二傷暑
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d5d4
+    span:
+    - body
+    - 56284
+    - 56867
+  label: 三中暑
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d5d5
+    span:
+    - body
+    - 56867
+    - 57053
+  label: 四暑濕
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5d6
+    span:
+    - body
+    - 57053
+    - 57814
+  label: 五伏暑
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5d7
+    span:
+    - body
+    - 57814
+    - 58787
+  label: 六濕溫
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5d8
+    span:
+    - body
+    - 58787
+    - 61449
+  label: 七燥病
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d8d2
+    span:
+    - body
+    - 58790
+    - 61235
+  label: 一秋燥
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d8d3
+    span:
+    - body
+    - 61235
+    - 61449
+  label: 二伏燥
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5d9
+    span:
+    - body
+    - 61449
+    - 62252
+  label: 八冬溫
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5d10
+    span:
+    - body
+    - 62252
+    - 67637
+  label: 附方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d2
+    span:
+    - body
+    - 62254
+    - 62431
+  label: 一清涼透邪法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d3
+    span:
+    - body
+    - 62431
+    - 62547
+  label: 二清熱保津法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d4
+    span:
+    - body
+    - 62547
+    - 62658
+  label: 三清涼蕩熱法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d5
+    span:
+    - body
+    - 62658
+    - 62793
+  label: 四潤下救津法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d6
+    span:
+    - body
+    - 62793
+    - 62929
+  label: 五辛溫解表法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d7
+    span:
+    - body
+    - 62929
+    - 63105
+  label: 六涼解裡熱法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d8
+    span:
+    - body
+    - 63105
+    - 63216
+  label: 七清熱解毒法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d9
+    span:
+    - body
+    - 63216
+    - 63323
+  label: 八祛熱息風法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d10
+    span:
+    - body
+    - 63323
+    - 63520
+  label: 九祛熱宣竅法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d11
+    span:
+    - body
+    - 63520
+    - 63658
+  label: 十辛涼解表法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d12
+    span:
+    - body
+    - 63658
+    - 63989
+  label: 十一至寶丹
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d13
+    span:
+    - body
+    - 63989
+    - 64129
+  label: 十二大承氣湯
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d14
+    span:
+    - body
+    - 64129
+    - 64421
+  label: 十三達原飲
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d15
+    span:
+    - body
+    - 64421
+    - 64645
+  label: 十四紫雪丹
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d16
+    span:
+    - body
+    - 64645
+    - 64912
+  label: 十五白虎湯
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d17
+    span:
+    - body
+    - 64912
+    - 65056
+  label: 十六清涼滌暑法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d18
+    span:
+    - body
+    - 65056
+    - 65169
+  label: 十七祛暑解毒法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d19
+    span:
+    - body
+    - 65169
+    - 65300
+  label: 十八增損胃苓法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d20
+    span:
+    - body
+    - 65300
+    - 65411
+  label: 十九清暑開痰法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d21
+    span:
+    - body
+    - 65411
+    - 65666
+  label: 二十蘇合香丸
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d22
+    span:
+    - body
+    - 65666
+    - 65863
+  label: 二十一來復丹
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d23
+    span:
+    - body
+    - 65863
+    - 65974
+  label: 二十二祛暑調元法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d24
+    span:
+    - body
+    - 65974
+    - 66108
+  label: 二十三清宣溫化法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d25
+    span:
+    - body
+    - 66108
+    - 66423
+  label: 二十四益元散
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d26
+    span:
+    - body
+    - 66423
+    - 66551
+  label: 二十五宣疏表濕法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d27
+    span:
+    - body
+    - 66551
+    - 66679
+  label: 二十六宣陽透伏法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d28
+    span:
+    - body
+    - 66679
+    - 66833
+  label: 二十七宣透膜原法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d29
+    span:
+    - body
+    - 66833
+    - 66981
+  label: 二十八苦溫平燥法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d30
+    span:
+    - body
+    - 66981
+    - 67133
+  label: 二十九金水相生法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d31
+    span:
+    - body
+    - 67133
+    - 67284
+  label: 三十松柏通幽法
+  type: section
+  level: 4
+- ref:
+    seq: 0
+    marker_id: KR3eg012_jc_000-d5.d5.d10d32
+    span:
+    - body
+    - 67284
+    - 67637
+  label: 三十一清燥救肺湯
+  type: section
+  level: 4
+hash: sha256:217bb723944e508fec52335024409a302ccd59742ab4020b0826c6fa896f6926
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
