@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eg012_000.yaml, hash: 'sha256:541cb094634d553d0d887078d450821f96d73405092ec5c29d05dd50a646c25a'}
+  - {seq: 0, filename: KR3eg012_000.yaml, hash: 'sha256:2979d1c6b402a5512d3e4b3438910b83b01ae917f8363874ab8fe55f9b4b8774'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg012_000.markers.yaml, hash: 'sha256:883074125198316549e65b6bfd0ffb9c64d8a21ebfddf36b33b8230811db9904'}
+  - {seq: 0, role: markers, filename: assets/KR3eg012_000.markers.yaml, hash: 'sha256:93c6acc1dbf1676778005dc427787c6a4014a8815fec26a756034a54d5ff6393'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1331,7 +1331,4 @@ table_of_contents:
   label: 三十一清燥救肺湯
   type: section
   level: 4
-hash: sha256:217bb723944e508fec52335024409a302ccd59742ab4020b0826c6fa896f6926
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a05f02848bda9a0902c6acb4729bc7f2db4e7ed691af0abedda5bc3cebe5116c
