@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eg012/v1
 canonical_location: https://kanripo.org/bkk/KR3eg012/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 溫病正宗
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eg012_000.yaml, hash: 'sha256:2979d1c6b402a5512d3e4b3438910b83b01ae917f8363874ab8fe55f9b4b8774'}
+  - {seq: 0, filename: KR3eg012_000.yaml, hash: 'sha256:7d7d0d03328db50efef99ec290eaec2730b6f2e64e84535737a7308c5b21233f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg012_000.markers.yaml, hash: 'sha256:93c6acc1dbf1676778005dc427787c6a4014a8815fec26a756034a54d5ff6393'}
+  - {seq: 0, role: markers, filename: assets/KR3eg012_000.markers.yaml, hash: 'sha256:d99abce97cf6a2c42962166d3a90ebf3da903e3c13e771e9c1124142cefe01dd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1331,4 +1331,7 @@ table_of_contents:
   label: 三十一清燥救肺湯
   type: section
   level: 4
-hash: sha256:a05f02848bda9a0902c6acb4729bc7f2db4e7ed691af0abedda5bc3cebe5116c
+hash: sha256:fb8906739586fbb674f6915d9f5332f2506e8e81d5ad451066fdb74682de9f6f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
